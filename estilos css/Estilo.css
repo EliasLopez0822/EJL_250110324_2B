@@ -8,6 +8,9 @@ body {
     color: #202124;
 }
 
+.img-container {
+        text-align: center;
+      }
 header {
     background-color: #ffffff;
     padding: 10px 20px;
